@@ -5,3 +5,5 @@ PTI do curso de ADS do Senac EAD
 Pra rodar a Aplicação Abra a pasta "Aluno" no VSCode e Abra um Terminal Novo e digite nele "dotnet run".
 
 Alternativamente você pode só abrir a pasta no terminal e digitar o comando "dotnet run"
+
+Usuaŕios de Linux podem rodar o "Iniciar.sh" que ele ira rodar o programa no terminal do SO, só basta permitir que ele seja executado como programa
