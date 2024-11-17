@@ -14,5 +14,16 @@ O seguinte diagrama procura representar visualmente como se organiza o sistema p
 
 ![Diagrama de Classes](Decumentos/Classes.png "Disgrama de Classes UML")
 
+# Diagrama de Caso de Uso
+Diagrama de caso de uso envolvendo o seguinte cenário:
+
+* Cadastro de pessoa física;
+* Cadastro de pessoa jurídica;
+* Cadastro de aluno;
+* Cadastro de professor;
+* Cadastro de fornecedor.
+
+![Diagrama de Caso de Uso](Decumentos/Caso.png)
+
 # Protótipos de Interface
 
