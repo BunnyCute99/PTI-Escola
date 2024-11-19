@@ -27,3 +27,15 @@ Diagrama de caso de uso envolvendo o seguinte cenário:
 
 # Protótipos de Interface
 
+## Cadastro de Pessoa Física
+![Interface de Pessoa Física](Documentos/PF.jpeg)
+## Cadastro de Aluno
+![Interface de Aluno](Documentos/PF-Aluno.jpeg)
+## Cadastro de Professor - Pessoa Física
+![Interface de Professor - Pessoa Física](Documentos/PF-Professor.jpeg)
+## Cadastro de Pessoa Jurídica
+![Interface de Pessoa Jurídica](Documentos/PJ.jpeg)
+## Cadastro de Fornecedor
+![Interface de Fornecedor](Documentos/PJ-Fornecedor.jpeg)
+## Cadastro de Professor - Pessoa Jurídica
+![Interface de Professor - Pessoa Jurídica](Documentos/PJ-Professor.jpeg)
