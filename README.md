@@ -12,7 +12,7 @@ Usuários de Linux podem rodar o "Iniciar.sh" que ele ira abrir o programa no te
 
 O seguinte diagrama procura representar visualmente como se organiza o sistema proposto pra resolver o problema da universidade, demonstrando visualmente as classes, assim como seus respectivos atributos e métodos, e por fim as relações que possuem umas com as outra
 
-![Diagrama de Classes](Decumentos/Classes.png "Disgrama de Classes UML")
+![Diagrama de Classes](Documentos/Classes.png "Disgrama de Classes UML")
 
 # Diagrama de Caso de Uso
 Diagrama de caso de uso envolvendo o seguinte cenário:
@@ -23,7 +23,7 @@ Diagrama de caso de uso envolvendo o seguinte cenário:
 * Cadastro de professor;
 * Cadastro de fornecedor.
 
-![Diagrama de Caso de Uso](Decumentos/Caso.png)
+![Diagrama de Caso de Uso](Documentos/Caso.png)
 
 # Protótipos de Interface
 
